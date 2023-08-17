@@ -9,3 +9,8 @@ This project demonstrates the following:
 
 Swagger Specs:
 ![API Demo](https://github.com/csehammad/MinimalAPIDemo/blob/main/Img/Minimal%20API%20in%20DotNET6.png?raw=true)
+
+
+
+
+
